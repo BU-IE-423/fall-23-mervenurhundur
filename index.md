@@ -25,7 +25,9 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
+## Welcome to My GitHub Page 
+# Assignment 1:
+[HW1 HTML](ProjectPart1.html)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
