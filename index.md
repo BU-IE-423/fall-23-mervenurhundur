@@ -30,8 +30,8 @@ Syntax highlighted code block
 [HW1 HTML](ProjectPart1.html)
 
 # Assignment 2:
-[HW1 HTML](ProjectPart2_1.html)
-[HW2 HTML](ProjectPart2_2.html)
+[HW2 HTML1](ProjectPart2_1.html)
+[HW2 HTML2](ProjectPart2_2.html)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
